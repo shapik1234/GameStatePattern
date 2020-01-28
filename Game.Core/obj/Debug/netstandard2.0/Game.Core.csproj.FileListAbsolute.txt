@@ -1,0 +1,9 @@
+C:\Users\dsha\source\repos\Game\Game.Core\bin\Debug\netstandard2.0\Game.Core.deps.json
+C:\Users\dsha\source\repos\Game\Game.Core\bin\Debug\netstandard2.0\Game.Core.dll
+C:\Users\dsha\source\repos\Game\Game.Core\bin\Debug\netstandard2.0\Game.Core.pdb
+C:\Users\dsha\source\repos\Game\Game.Core\obj\Debug\netstandard2.0\Game.Core.csprojAssemblyReference.cache
+C:\Users\dsha\source\repos\Game\Game.Core\obj\Debug\netstandard2.0\Game.Core.csproj.CoreCompileInputs.cache
+C:\Users\dsha\source\repos\Game\Game.Core\obj\Debug\netstandard2.0\Game.Core.AssemblyInfoInputs.cache
+C:\Users\dsha\source\repos\Game\Game.Core\obj\Debug\netstandard2.0\Game.Core.AssemblyInfo.cs
+C:\Users\dsha\source\repos\Game\Game.Core\obj\Debug\netstandard2.0\Game.Core.dll
+C:\Users\dsha\source\repos\Game\Game.Core\obj\Debug\netstandard2.0\Game.Core.pdb

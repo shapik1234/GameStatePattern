@@ -1,0 +1,14 @@
+C:\Users\dsha\source\repos\Game\Game.Runner\bin\Debug\netcoreapp2.1\Game.Runner.deps.json
+C:\Users\dsha\source\repos\Game\Game.Runner\bin\Debug\netcoreapp2.1\Game.Runner.runtimeconfig.json
+C:\Users\dsha\source\repos\Game\Game.Runner\bin\Debug\netcoreapp2.1\Game.Runner.runtimeconfig.dev.json
+C:\Users\dsha\source\repos\Game\Game.Runner\bin\Debug\netcoreapp2.1\Game.Runner.dll
+C:\Users\dsha\source\repos\Game\Game.Runner\bin\Debug\netcoreapp2.1\Game.Runner.pdb
+C:\Users\dsha\source\repos\Game\Game.Runner\bin\Debug\netcoreapp2.1\Game.Core.dll
+C:\Users\dsha\source\repos\Game\Game.Runner\bin\Debug\netcoreapp2.1\Game.Core.pdb
+C:\Users\dsha\source\repos\Game\Game.Runner\obj\Debug\netcoreapp2.1\Game.Runner.csprojAssemblyReference.cache
+C:\Users\dsha\source\repos\Game\Game.Runner\obj\Debug\netcoreapp2.1\Game.Runner.csproj.CoreCompileInputs.cache
+C:\Users\dsha\source\repos\Game\Game.Runner\obj\Debug\netcoreapp2.1\Game.Runner.AssemblyInfoInputs.cache
+C:\Users\dsha\source\repos\Game\Game.Runner\obj\Debug\netcoreapp2.1\Game.Runner.AssemblyInfo.cs
+C:\Users\dsha\source\repos\Game\Game.Runner\obj\Debug\netcoreapp2.1\Game.Runner.csproj.CopyComplete
+C:\Users\dsha\source\repos\Game\Game.Runner\obj\Debug\netcoreapp2.1\Game.Runner.dll
+C:\Users\dsha\source\repos\Game\Game.Runner\obj\Debug\netcoreapp2.1\Game.Runner.pdb
